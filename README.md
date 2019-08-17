@@ -4,7 +4,7 @@ This application is an implementation of the BLOC state management system. This 
 
 ## Documentations
 
-![Alt text](https://github.com/tiyan-attirmidzi/Flutter-BLOC-Sample/blob/master/documentation/bloc_sample.gif "Home Page")
+<img src="https://github.com/tiyan-attirmidzi/Flutter-BLOC-Sample/blob/master/documentation/bloc_sample.gif" alt="Apps Documentations" width="200">
 
 Follow My Social Media :
 
