@@ -1,16 +1,14 @@
-# bloc_sample
+# BLOC Sample Apps
 
-A new Flutter project.
+This application is an implementation of the BLOC state management system. This application is also quite simple because only the default flutter application is integrated in BLOC.
 
-## Getting Started
+## Documentations
 
-This project is a starting point for a Flutter application.
+![Alt text](https://github.com/tiyan-attirmidzi/Flutter-BLOC-Sample/blob/master/documentation/bloc_sample.gif "Home Page")
 
-A few resources to get you started if this is your first Flutter project:
+Follow My Social Media :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Instagram 1st](https://www.instagram.com/tiyanattirmidzi/)
+- [Instagram 2nd](https://www.instagram.com/onggolt_dev/)
+- [LinkedIn](https://www.linkedin.com/in/tiyan-attirmidzi-223475156)
+- [Website](https://onggolt.com/)
